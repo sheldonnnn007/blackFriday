@@ -1,3 +1,2 @@
 # blackFriday
-testtest
-test....
+test
